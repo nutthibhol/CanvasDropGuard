@@ -1,0 +1,3 @@
+Consumer Key: 4231f3ca-c4c7-447c-b873-f2c676e926a2
+Shared Secret: c286491abddc4d84b51ae41c06aa7255
+HMAC Signature: 4dd607ab975883b6ff80e0107f127fed0f0c834a79b5585b8bc1fd44ec4ca8b3
